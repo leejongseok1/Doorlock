@@ -38,6 +38,9 @@ RaspberryPi와 dlib기반 python 라이브러리인 [**face_recognition**](https
 <br>
 <br>
 
+![Image](https://github.com/user-attachments/assets/866c9e96-c398-48bb-962c-b26a8682f63a)
+
+
 ## 프로젝트 시연 영상
 
 https://www.youtube.com/watch?v=f0IGTcsKD9g
